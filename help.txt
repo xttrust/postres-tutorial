@@ -1,0 +1,2 @@
+to connect to server use this: (psql not working)
+    psql -h /home/gitpod/.pg_ctl/sockets
